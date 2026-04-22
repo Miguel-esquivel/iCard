@@ -1,10 +1,13 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import { Navigation } from "./routes";
 
 function App() {
   return (
-    <div className="app">
-        <h1 className='app'>Welcome to iCard!</h1>
-    </div>
+    <BrowserRouter>
+      <h1>Welcome to iCard!</h1>
+      <Navigation />
+    </BrowserRouter>
   );
 }
 
