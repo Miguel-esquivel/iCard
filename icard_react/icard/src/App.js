@@ -5,7 +5,6 @@ import { Navigation } from "./routes";
 function App() {
   return (
     <BrowserRouter>
-      <h1>Welcome to iCard!</h1>
       <Navigation />
     </BrowserRouter>
   );
