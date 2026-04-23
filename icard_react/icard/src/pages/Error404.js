@@ -23,7 +23,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
-    background: 'linear-gradient(135deg, #667eea, #764ba2)',
+    background: 'linear-gradient(135deg, #4d6df8, #a24b5e)',
     color: '#fff',
     textAlign: 'center',
     fontFamily: 'Arial, sans-serif',
@@ -45,7 +45,7 @@ const styles = {
   button: {
     padding: '10px 20px',
     backgroundColor: '#fff',
-    color: '#764ba2',
+    color: '#020003',
     borderRadius: '8px',
     textDecoration: 'none',
     fontWeight: 'bold',
