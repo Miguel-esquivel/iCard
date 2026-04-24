@@ -1,0 +1,20 @@
+
+
+.ui.primary.button {
+    background-color: #007bff !important;
+    border-color: #007bff !important;
+    color: #fff !important;
+    border-radius: 10px !important;
+
+    &:hover {
+        background-color: #0069d9 !important;
+        border-color: #0062cc !important;
+        color: #fff !important;
+    }
+
+    &:active {
+        background-color: #0062cc !important;
+        border-color: #005cbf !important;
+        color: #fff !important;
+    }
+}
